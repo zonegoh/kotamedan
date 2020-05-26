@@ -1,0 +1,10 @@
+options All -indexes
+RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteRule ^home/?$ index.php 
+RewriteRule ^about/?$ about.php 
+RewriteRule ^gallery/?$ gallery.php 
+RewriteRule ^planters/?$ list.php?q=planters 
+RewriteRule ^plants/?$ list.php?q=plants
