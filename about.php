@@ -11,7 +11,7 @@ include "dbinfo.php";
     <meta name="description" content="Medan kota buah BUNG!!!">
     <meta name="author" content="YAKI Foundation">
 
-    <title>Medan Kota Buah BUNG!!! - Support by YAKI Foundation</title>
+    <title>Medan Kota Buah BUNG!!!</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -61,7 +61,7 @@ include "dbinfo.php";
 		<div class="row">
 			<div class="col" style="text-align:justify">
 
-				<h2>About Kota Medan Kota Buah</h2>
+				<h2>About Medan Kota Buah BUNG!!!</h2>
 
         <img src="assets/medankotabuahlogos-removebg-preview.png" width="200" ALIGN="left" HSPACE="50" VSPACE="50">  
 

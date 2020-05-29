@@ -37,7 +37,7 @@ if ($_GET['q']=="plants") {
     <meta name="description" content="Medan kota buah BUNG!!!">
     <meta name="author" content="YAKI Foundation">
 
-    <title>Medan Kota Buah BUNG!!! - Support by YAKI Foundation</title>
+    <title>Medan Kota Buah BUNG!!!</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
