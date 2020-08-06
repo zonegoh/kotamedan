@@ -5,8 +5,8 @@ $access_token="8644563795.1677ed0.4b2ed0dfe9e14bf099f47e6322c61b04"; // instagra
 $photo_count=18; // jumlah foto
 
 $host = 'localhost:3360';
-$user = 'remote';
-$pass = 'w})Z37]8fqS/@z3$';
+$user = 'root';
+$pass = '';
 $dbname = 'kotamedan';
 
 
