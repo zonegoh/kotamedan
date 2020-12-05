@@ -46,6 +46,9 @@ include "dbinfo.php";
                 <a class="nav-link" href="plants">Plants</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="https://newsmedankotabuahbung.tumblr.com">News</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSc-uhA68xfE7VSy8tWf9OxuRKIlywpbuShwAikwg-s712V_Uw/viewform" target="_new">Contact</a>
             </li>
 			<li class="nav-item">
