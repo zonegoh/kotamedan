@@ -1,7 +1,7 @@
 <?php
-$apimap = 'AIzaSyDXz_0-5inGnqOviL1E-IB4V4mCphoP-WE'; //halaman depan
-$apiplace = 'AIzaSyDsuKxIca6Htk8cAzf4H5Cbd2ebmVZ7caA'; // halaman form_tanaman.php
-$access_token="8644563795.1677ed0.4b2ed0dfe9e14bf099f47e6322c61b04"; // instagram token
+$apimap = 'API_MAP'; //halaman depan
+$apiplace = 'API_PLACE'; // halaman form_tanaman.php
+$access_token="API_IG"; // instagram token
 $photo_count=18; // jumlah foto
 
 $host = 'localhost:3360';
